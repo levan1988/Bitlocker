@@ -34,7 +34,7 @@ Ejecuta el script:
 
 .\BitlockerScript.ps1
 
-## Hacer monitoreo del proceso 
+## Monitoreo del proceso 
 Abre CMD como administrador y poner el comando:
 manage-bde -status c:
 
